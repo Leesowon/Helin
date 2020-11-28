@@ -8,18 +8,18 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:705310933237:android:a8e9370231ca5baadd85bc",
+        "mobilesdk_app_id": "1:705310933237:android:fb7cc90d7663be10dd85bc",
         "android_client_info": {
           "package_name": "com.example.helin"
         }
       },
       "oauth_client": [
         {
-          "client_id": "705310933237-q2kjdi9kq81jsi8qcgfv2v3fr3g0ufi2.apps.googleusercontent.com",
+          "client_id": "705310933237-9om61l54bdn6agvhq2hi74j06dgfvetj.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.helin",
-            "certificate_hash": "f9f4cd6b19c8d8ae0009d73eeda76720638bdd6e"
+            "certificate_hash": "73c595c9c76fc53aef717f4c2c766f7cd3e1bf3d"
           }
         },
         {
